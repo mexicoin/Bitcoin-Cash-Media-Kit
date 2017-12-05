@@ -1,5 +1,5 @@
-# Mexicointwo is the peso mexicano vers. 2.0
-Vector artwork files for Mesicointwo is the peso mexicano vers. 2.0.
+# Mexicointwo is the peso mexicano vers. 2.0 (MXC)
+Vector artwork files for Mexicointwo is the peso mexicano vers. 2.0.
 
 
 
