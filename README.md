@@ -1,5 +1,5 @@
-# Bitcoin-Cash-Orange-Art
-Vector artwork files for Bitcoin Cash in orange.
+# Mexicointwo is the peso mexicano vers. 2.0
+Vector artwork files for Mesicointwo is the peso mexicano vers. 2.0.
 
 
 
@@ -7,13 +7,13 @@ Feel free to use abuse, mutilate, print and sell T shirts, stickers. Whatever yo
 
 
 
-Grey Hex: #4d4d4d
-Pantone: 11C
+Grey Hex: #
+Pantone: 
 
-Fonts: Ubuntu, Ubuntu Italic, Kerning -50
+Fonts: 
 
-Original Orange Hex: #f7941d
-Pantone: 1375C
+Original  Hex: #
+Pantone: 
 
 
 For custom logo sizes:
@@ -32,5 +32,5 @@ http://www.picresize.com/
 
 http://www.simpleimageresizer.com/
 
-BCH Donations
-1EQGBKv25C7dUARbjZd6adXXZWRbX7SvY4
+MXC Donations
+12PFYF97qn7DAfzNpjeBXTDqLRGdqWD6MR
