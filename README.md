@@ -1,15 +1,11 @@
-# Bitcoin-Cash-Green-Art
-Vector artwork files for Bitcoin Cash in Green.
+# Bitcoin-Cash-Orange-Art
+Vector artwork files for Bitcoin Cash in orange.
 
 
 
 Feel free to use abuse, mutilate, print and sell T shirts, stickers. Whatever you want.
 
 
-
-
-Green Hex: #4cca47
-Pantone: 802C
 
 Grey Hex: #4d4d4d
 Pantone: 11C
@@ -35,3 +31,6 @@ http://resizeimage.net/
 http://www.picresize.com/
 
 http://www.simpleimageresizer.com/
+
+BCH Donations
+1EQGBKv25C7dUARbjZd6adXXZWRbX7SvY4
